@@ -1,1 +1,3 @@
-<img src="ArjunaLogo.png" width="100%"/>
+# Arjuna 
+
+<img src="arjuna-background.png" width=100% height=100px/>
