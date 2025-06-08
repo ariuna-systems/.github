@@ -14,8 +14,8 @@ We build secure, high-performance systems with a focus on:
 
 - **C++** for performance-critical components  
 - **Rust** for safety and concurrency  
-- **Haskell** for robust logic and domain modeling  
-- **JavaScript** for custom UI and data visualizations  
+- **OCaml** for robust logic and domain modeling  
+- **JavaScript/Rescript** for custom UI and data visualizations  
 - **Python** for integration, scripting, and data workflows
 
 ## Stay Connected
