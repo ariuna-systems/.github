@@ -1,6 +1,6 @@
 # Welcome to Arjuna Systems
 
-Arjuna Systems is a technology startup focused on developing situational awareness platforms for highly regulated industries.
+Arjuna Systems is a technology startup focused on developing situational awareness platforms for regulated industries.
 
 ## What We Do
 
