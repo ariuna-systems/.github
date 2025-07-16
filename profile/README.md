@@ -2,26 +2,22 @@
 
 Arjuna Systems is a technology startup focused on developing situational awareness platforms for regulated industries.
 
-
 We don’t ride on hype — we ride on discipline.
 In a world obsessed with the next big thing, we stay grounded. No buzzwords. No shortcuts. Just hard work, clarity, and long-term impact.
-
 
 ## What We Do
 
 We build secure, high-performance systems with a focus on:
 
-- **Situational awareness and decision support**
-- **Real-time data processing**
-- **Safety and compliance in regulated environments**
+- **Situational awareness**
+- **Stream processing**
 
 ## Technologies We Use
 
 - **C++** for performance-critical components  
-- **Rust** for safety and concurrency  
-- **OCaml** for robust logic and domain modeling  
-- **JavaScript/Rescript** for custom UI and data visualizations  
-- **Python** for integration, scripting, and data workflows
+- **Haskell** for robust logic and domain modeling  
+- **JavaScript** for custom UI and data visualizations  
+- **Python** for data integration, scripting, and prototyping
 
 ## Stay Connected
 
