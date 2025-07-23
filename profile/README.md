@@ -12,7 +12,7 @@ We build secure, high-performance systems with a focus on:
 - **Situational awareness**
 - **Stream processing**
 
-## Technologies We Use
+## What We Use
 
 - **C++** for performance-critical components  
 - **Haskell** for robust logic and domain modeling  
