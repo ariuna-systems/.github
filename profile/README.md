@@ -9,7 +9,7 @@ In a world obsessed with the next big thing, we stay grounded. No buzzwords. No 
 
 We build secure, high-performance systems with a focus on **situational awareness**:
 
-- **Stream processing**
+- **Stream Processing**
 - **Temporal Stream Logic**
 
 ## What We Use
