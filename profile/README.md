@@ -7,15 +7,15 @@ In a world obsessed with the next big thing, we stay grounded. No buzzwords. No 
 
 ## What We Do
 
-We build secure, high-performance systems with a focus on:
+We build secure, high-performance systems with a focus on **situational awareness**:
 
-- **Situational awareness**
 - **Stream processing**
+- **Temporal Stream Logic**
 
 ## What We Use
 
 - **C++** for performance-critical components  
-- **Haskell** for robust logic and domain modeling  
+- **Haskell/Common Lisp + Coalton** for robust logic and domain modeling  
 - **JavaScript** for custom UI and data visualizations  
 - **Python** for data integration, scripting, and prototyping
 
