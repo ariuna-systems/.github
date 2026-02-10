@@ -1,4 +1,4 @@
-# Welcome to Arjuna Systems
+# Welcome to Ariuna Systems
 
 Arjuna Systems is a technology startup focused on developing situational awareness platforms for regulated industries.
 
