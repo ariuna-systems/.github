@@ -1,4 +1,4 @@
-# Welcome to Ariuna Systems
+# ARIUNA
 
 Ariuna Systems is a technology startup focused on developing situational awareness platforms for regulated industries.
 
