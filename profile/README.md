@@ -9,11 +9,7 @@ Our Philosophy: **Move Fast, Break Nothing**
 
 ## What We Do
 
-We build secure, high-performance systems with a focus on **situational awareness**:
-
-- **Stream Processing**
-- **Temporal Formal Methods**
-- **Deterministic Execution**
+We build reliable and performant **situational awareness** platform with a focus on **stream processing**, **formal verification** and **deterministic execution**.
 
 ## What We Use
 
