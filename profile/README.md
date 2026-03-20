@@ -12,12 +12,13 @@ Our Philosophy: **Move Fast, Break Nothing**
 We build secure, high-performance systems with a focus on **situational awareness**:
 
 - **Stream Processing**
-- **Temporal Stream Logic**
+- **Temporal Formal Methods**
+- **Deterministic Execution**
 
 ## What We Use
 
-- **C++** for performance-critical components  
-- **Haskell/Common Lisp + Coalton** for robust logic and domain modeling  
+- **C++** and/or **Rust** for performance-critical components  
+- **Haskell/Common Lisp + Coalton** for robust logic and semantic modeling  
 - **JavaScript** for custom UI and data visualizations  
 - **Python** for data integration, scripting, and prototyping
 
