@@ -1,6 +1,6 @@
 # ARIUNA
 
-Ariuna Systems is a technology startup focused on developing situational awareness platforms for regulated industries.
+ARIUNA is a technology startup focused on developing situational awareness platforms for regulated industries.
 
 We don’t ride on hype — we ride on discipline. In a world obsessed with the next big thing, we stay grounded. 
 No buzzwords. No shortcuts. Just hard work, clarity, and long-term impact.
